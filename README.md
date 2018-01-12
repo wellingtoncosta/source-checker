@@ -1,4 +1,4 @@
-# source-checker
+# source-checker [![](https://jitpack.io/v/WellingtonCosta/source-checker.svg)](https://jitpack.io/#WellingtonCosta/source-checker)
 
 This project is a simple example of static source code analysis at compile-time using Java Annotation Processing.
 
